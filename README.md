@@ -41,7 +41,6 @@ hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games /
 <!-- 
 when I have articles written out add a link to that here
 -->
-<>
 
 <!--
 **kjunghoan/kjunghoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
