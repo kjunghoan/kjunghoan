@@ -11,7 +11,7 @@ nickName: "Simon",
 location: "Washington, DC",
 currentlyLearning: {
   databases: ["postgreSQL", "Prisma"],
-  frontendFrameworks: ["antd"],
+  frontendFrameworks: ["antd", "ReactNative"],
   deployment: ["AWS"],
 }
 currentProjects: "Server Design Capstone (@Galvanize-HackReactor)",
