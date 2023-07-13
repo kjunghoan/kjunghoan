@@ -13,7 +13,7 @@ currentlyLearning: {
   databases: ["postgreSQL", "Prisma"],
   frontendFrameworks: ["antd", "ReactNative"],
   deployment: ["AWS"],
-}
+},
 currentProjects: "Server Design Capstone (@Galvanize-HackReactor)",
 hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games", "Art"]
 }
