@@ -6,16 +6,16 @@
 ```js
 
 {
-name: ["Jung Hoan Kim", "김정환"],
-nickName: "Simon",
-location: "Washington, DC",
-currentlyLearning: {
-  databases: ["postgreSQL", "Prisma"],
-  frontendFrameworks: ["antd", "ReactNative"],
-  deployment: ["AWS"],
-},
-currentProjects: "Server Design Capstone (@Galvanize-HackReactor)",
-hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games", "Art"]
+  name: ["Jung Hoan Kim", "김정환"],
+  nickName: "Simon",
+  location: "Washington, DC",
+  currentlyLearning: {
+    databases: ["postgreSQL", "Prisma"],
+    frontendFrameworks: ["antd", "ReactNative"],
+    deployment: ["AWS"],
+  },
+  currentProjects: "Server Design Capstone (@Galvanize-HackReactor)",
+  hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games", "Art"]
 }
 ```
 <p>
