@@ -12,7 +12,7 @@
   currentlyLearning: {
     databases: ["graphql", "prisma"],
     frontendFrameworks: ["antd", "ReactNative"],
-    deployment: ["AWS", "kuberneties"],
+    deployment: ["AWS", "Docker"],
   },
   currentProjects: {
     {
