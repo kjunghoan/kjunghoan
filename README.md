@@ -18,7 +18,8 @@
     {
       name: "GrocRE (@Galvanize-HackReactor)",
       technologies: {
-        development:["postgresql", "antD", "prisma", "express", "cors", "javaScript", "RESTful- APIs", "jwks-rsa", "redis", "vite"],
+        development:["postgresql", "antD", "prisma", "express", "cors", 
+        "javaScript", "RESTful- APIs", "jwks-rsa", "redis", "vite"],
         deployment:["aws - ec2"]
       }
     }
