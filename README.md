@@ -9,21 +9,10 @@
   name: ["Jung Hoan Kim", "김정환"],
   nickName: "Simon Kim",
   location: "Washington, DC",
-  currentlyLearning: {
-    databases: ["graphql"],
-    frontendFrameworks: ["antd", "ReactNative"],
-    deployment: ["AWS-EC2", "Docker", "Kubernetes"],
-  },
-  recentProjects: {
-    {
-      name: "GrocRE (@Galvanize-HackReactor)",
-      technologies: {
-        development:["postgresql", "antD", "prisma", "express", "cors", 
-        "javaScript", "RESTful- APIs", "jwks-rsa", "redis", "vite"],
-        deployment:["aws - ec2"]
-      }
-    }
-  },
+  currentlyLearning:[
+    "graphql", "antd", "ReactNative","AWS-EC2", "Docker", "Kubernetes"
+  ],
+  recentProjects: ["GrocRE"],
   hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games", "Art"]
 }
 ```
@@ -34,7 +23,7 @@
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -65,7 +54,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h3>Interest in Learning</h3>
+<!-- <h3>Interest in Learning</h3>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -86,12 +75,12 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
+![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white) -->
 
 </p>
 </details>
 <p>
-<details>
+<!-- <details>
   <summary><b>Design</b>
   </summary>
 
@@ -106,16 +95,16 @@
   ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
   
 </p>
-</details>
+</details> -->
 
 <p>
 <details>
   <summary><b>Reach Me Through</b>
   </summary>
   
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjunghoan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjunghoan@gmail.com)
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://cdn.discordapp.com/attachments/780115765336604703/1138521948306022450/1689232436822.png)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjunghoan/)
 
 
 </p>
