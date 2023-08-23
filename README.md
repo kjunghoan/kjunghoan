@@ -9,9 +9,7 @@
   name: ["Jung Hoan Kim", "김정환"],
   nickName: "Simon Kim",
   location: "Washington, DC",
-  currentlyLearning:[
-    "graphql", "antd", "ReactNative","AWS-EC2", "Docker", "Kubernetes"
-  ],
+  currentlyLearning:["graphql", "ReactNative","AWS-EC2", "Docker", "Kubernetes"],
   recentProjects: ["GrocRE"],
   hobbies:["Building Computers", "Cars", "Audio Design", "Visual Design", "Games", "Art"]
 }
