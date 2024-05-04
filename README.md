@@ -10,7 +10,7 @@
   name: ["Jung Hoan Kim", "김정환"],
   nickName: "Simon Kim",
   location: "Washington, DC",
-  currentlyLearning:["AWS"],
+  currentlyLearning:["AWS", "Java"],
   hobbies:["Building Computers", "Cars", "Visual Design"]
 }
 ```
