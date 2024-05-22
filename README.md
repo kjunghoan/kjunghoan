@@ -2,13 +2,13 @@
 
 <h2>About Me</h2>
 
-```js
+```
 
 {
   name: ["Jung Hoan Kim", "김정환"],
   nickName: "Simon Kim",
   location: "Washington, DC",
-  currentlyLearning:["AWS", "Java"],
+  currentlyLearning:["Java", "Spring Web", "SpringBoot"],
   hobbies:["Building Computers", "Cars", "Visual Design"]
 }
 ```
@@ -103,14 +103,3 @@ Java
 
 </p>
 </details>
-<!-- 
-when I have articles written out add a link to that here
--->
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
