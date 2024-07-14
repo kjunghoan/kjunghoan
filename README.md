@@ -8,7 +8,7 @@
   name: ["Jung Hoan Kim", "김정환"],
   nickName: "Simon Kim",
   location: "Washington, DC",
-  currentlyLearning:["Java", "Spring Web", "SpringBoot"],
+  currentlyLearning:["Java", "Spring Web", "SpringBoot", "TailScale"],
   hobbies:["Building Computers", "Cars", "Visual Design"]
 }
 ```
