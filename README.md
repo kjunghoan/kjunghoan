@@ -2,14 +2,13 @@
 
 <h2>About Me</h2>
 
-```
-
+```json
 {
-  name: ["Jung Hoan Kim", "김정환"],
-  nickName: "Simon Kim",
-  location: "Washington, DC",
-  currentlyLearning:["Spring Web", "SpringBoot", "TailScale", "nix-os", "Arch-Linux", "Neovim"],
-  hobbies:["Building Computers", "Cars", "Visual Design"]
+  "name": ["Jung Hoan Kim", "김정환"],
+  "nickName": "Simon Kim",
+  "location": "Washington, DC",
+  "currentlyLearning":["Spring Web", "SpringBoot", "TailScale", "nix-os", "Arch-Linux", "Neovim"],
+  "hobbies":["Building Computers", "Cars", "Visual Design"]
 }
 ```
 
