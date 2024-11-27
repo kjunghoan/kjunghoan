@@ -8,10 +8,10 @@ public class Person {
   private List<String> hobbies;
 
   public Person() {
-    this.name = Arrays.asList("Jung_Hoan_Kim", "김정환");
+    this.name = Arrays.asList("Jung Hoan Kim", "김정환");
     this.location = "Washington, DC";
-    this.currentlyLearning = Arrays.asList("TailScale", "nix-os", "Arch-Linux")
-    hobbies:("Building Computers", "Cars", "Visual Design", "Homelab", "Neovim")
+    this.currentlyLearning = Arrays.asList("Nixos", "ArchLinux")
+    this.hobbies:["Building Computers", "Cars", "Visual Design", "Homelab", "Neovim"]
   }
 }
 
